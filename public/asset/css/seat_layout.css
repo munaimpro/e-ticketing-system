@@ -1,0 +1,56 @@
+body {
+  background-color: #f8f9fa;
+}
+.bus-layout {
+  display: grid;
+  grid-template-columns: 40px 40px 40px 40px 40px;
+  gap: 10px;
+  width: 500px;
+  
+}
+.items3{
+
+  grid-column: 3/span 1;
+  grid-row:  1 / span 7;
+
+}
+.bus-seat {
+  width: 40px;
+  height: 40px;
+  background-color: #e9ecef;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.bus-seat.selected {
+  background-color: #28a745;
+  color: white;
+}
+.bus-seat.booked {
+  background-color: #dc3545;
+  color: white;
+  cursor: not-allowed;
+}
+/* Bus Seat Button and Table */
+
+.input-btn {
+  margin-right: 10px;
+}
+
+#resultTable {
+  border-collapse: collapse;
+  width: 50%;
+  margin-top: 20px;
+}
+
+#resultTable th,
+#resultTable td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+/* Bus Seat select End*/
