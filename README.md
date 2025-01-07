@@ -3,14 +3,15 @@
 
 
 ## 📔 Description
-This is a Laravel-based bus e-ticketing system designed to streamline bus travel bookings. The system features a user-friendly interface built with HTML, CSS, Bootstrap, and JavaScript, allowing passengers to easily search for available routes, select seats, and book tickets online. The backend utilizes the robust Laravel framework for efficient data management, secure payment processing, and seamless integration with third-party services (if applicable). This system aims to provide a convenient and efficient solution for both passengers and bus operators, enhancing the overall travel experience.<br/><br/>
+This is a Laravel-based bus e-ticketing system designed to streamline bus travel bookings. The system features a user-friendly interface built with HTML, CSS, Bootstrap, and JavaScript, allowing passengers to easily search for available routes, select seats, and book tickets online. The backend utilizes the robust Laravel framework for efficient data management and secure authentication with Sanctum. This system aims to provide a convenient and efficient solution for both passengers and bus operators, enhancing the overall travel experience.<br/><br/>
 
 ## 💡 Technology
 - Frontend Language: HTML, CSS, JavaScript
 - Backend Language: PHP
 - Database: MySQL
 - Frontend Framework: Bootstrap
-- Backend Framework: Laravel<br/><br/>
+- Backend Framework: Laravel
+- Authentication: Laravel Sanctum<br/><br/>
 
 ## 💻 Contributor
 - <a href="https://github.com/munaimpro">Munaim Khan</a><br/><br/>
