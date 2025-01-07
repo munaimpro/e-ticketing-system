@@ -1,5 +1,5 @@
 # E-Ticketing System
-[<img src='https://github.com/munaimpro/e-ticketing-system/blob/main/e-ticketing-system-cover.png?raw=true' alt='E-Commerce Website' style='width:100%'>](https://github.com/munaimpro/)<br/><br/>
+<a href="https://github.com/munaimpro/e-ticketing-system/">[<img src='https://github.com/munaimpro/e-ticketing-system/blob/main/e-ticketing-system-cover.png?raw=true' alt='E-Commerce Website' style='width:100%'>](https://github.com/munaimpro/)</a><br/><br/>
 
 
 ## 📔 Description
